@@ -1,4 +1,4 @@
-#Final Project for Computer Architecture (ECE09243)
+# Final Project for Computer Architecture (ECE09243)
 <h2>RISC-V 32-bit Processor</h2> 
 
 Written by Gavin Trutzenbach, Jesselyn Ablett, Manas Gupta.
